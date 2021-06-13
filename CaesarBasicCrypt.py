@@ -4,7 +4,7 @@ op = ''
 edNumber = 0
 
 def join(w):
-    n = ""
+    n = ''
     for l in w:
         n += l
     return n
